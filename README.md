@@ -4,6 +4,20 @@ A modern and responsive profile card designed to showcase UX/UI and web developm
 
 ![Profile Card](assets/img/Screenshot.png)
 
+### Overview:
+
+- **Introduction**: Briefly explains what the project is about and its purpose.
+- **Features**: Highlights the key features of the profile card.
+- **Project Structure**: Details the file structure and main components.
+- **HTML Structure**: Provides the main HTML code for the profile card.
+- **Setup Instructions**: Guides users on how to clone and view the project.
+- **Dependencies**: Lists external libraries used in the project.
+- **Customization**: Offers tips on how to personalize the profile card.
+- **Contributing**: Describes how others can contribute to the project.
+- **License**: Mentions the project's license.
+- **Acknowledgments**: Credits the original inspiration for the project.
+- **Author Information**: Provides links to the author’s social profiles.
+  
 ## Features
 
 - **Responsive Design**: Adapts to different screen sizes, ensuring usability on both desktop and mobile devices.
@@ -137,18 +151,9 @@ This project was inspired by the [Profile Card with Tooltip](https://github.com/
 - **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024* 
 [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
 
-### Overview:
 
-- **Introduction**: Briefly explains what the project is about and its purpose.
-- **Features**: Highlights the key features of the profile card.
-- **Project Structure**: Details the file structure and main components.
-- **HTML Structure**: Provides the main HTML code for the profile card.
-- **Setup Instructions**: Guides users on how to clone and view the project.
-- **Dependencies**: Lists external libraries used in the project.
-- **Customization**: Offers tips on how to personalize the profile card.
-- **Contributing**: Describes how others can contribute to the project.
-- **License**: Mentions the project's license.
-- **Acknowledgments**: Credits the original inspiration for the project.
-- **Author Information**: Provides links to the author’s social profiles.
+## Contact
 
 Feel free to adjust any section as per your needs or to better fit the specifics of your project!
+
+---
