@@ -136,7 +136,6 @@ This project was inspired by the [Profile Card with Tooltip](https://github.com/
 
 - **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024* 
 [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
-```
 
 ### Overview:
 
